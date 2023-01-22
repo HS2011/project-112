@@ -1,0 +1,32 @@
+body
+{
+  color: rgb(91, 110, 113);
+  background: #c0d3ff;
+}
+.smort{
+  font-size: 18px;
+  border-radius: 5px;
+  letter-spacing: 5px;
+}
+span
+{
+  font-size: 30px;
+}
+#Hashtag_picture , #Hashtag-you
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#GESTURE-UNO ,#GESTURE-DOS  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
